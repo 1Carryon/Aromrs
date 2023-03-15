@@ -34,7 +34,7 @@
 
 ==通讯及弹道解算== && ==自瞄==
 
-https://github.com/1Carryon/Armors/video
+[https://github.com/1Carryon/Armors/video](https://github.com/1Carryon/Armors/tree/master/video)
 
 
 
