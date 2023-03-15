@@ -1,6 +1,42 @@
-# haust-2022-vision-master
+# haust-2021-vision-master
 
-河南科技大学 RoboMaster 鼎行.双创战队视觉组工程--装甲自瞄程序
+**河南科技大学 RoboMaster 鼎行.双创战队视觉组工程--装甲自瞄程序**
+
+![image-20230315163131086](pictures/image-20230315163131086.png)
+
+
+
+## 研究方法与思路
+
+<img src="pictures/image-20230315163324278.png" alt="image-20230315163324278" style="zoom: 67%;" />
+
+### 主体逻辑
+
+<img src="pictures/主体逻辑.png" alt="主题逻辑" style="zoom:67%;" />
+
+### 调度方式
+
+![调度方式](pictures/调度方式.jpg)
+
+## 关键技术步骤
+
+<img src="pictures/装甲板识别.png" alt="装甲板识别" style="zoom:50%;" />
+
+## 成果展示
+
+> ==能实现较为精准的识别未被击打过的末端装甲模块并对其实现自动瞄准==
+
+![识别](pictures/识别.jpg)
+
+![目标检测](pictures/目标检测.jpg)
+
+### 视频演示
+
+==通讯及弹道解算== && ==自瞄==
+
+https://github.com/1Carryon/Armors/video
+
+
 
 ## 文件结构
 
